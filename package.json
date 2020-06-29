@@ -1,0 +1,19 @@
+{
+  "name": "myserver",
+  "version": "1.0.0",
+  "description": "My 1st Web Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manimanearly/myserver.git"
+  },
+  "author": "G017A1541",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manimanearly/myserver/issues"
+  },
+  "homepage": "https://github.com/manimanearly/myserver#readme"
+}
